@@ -1,5 +1,6 @@
 .bold{
     font-weight: bold;
+    background-color: antiquewhite;
     
 }
 *{
@@ -31,5 +32,5 @@ border-bottom: 5px solid green;
 }
 .hidden{
     /* display: none; */
-   visibility: hidden;
+   /* visibility: hidden; */
 }
